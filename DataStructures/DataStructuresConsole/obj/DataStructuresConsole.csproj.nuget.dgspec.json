@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj",
+        "projectName": "DataStructuresConsole",
+        "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj",
+        "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj",
+        "projectName": "DataStructures",
+        "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj",
+        "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
