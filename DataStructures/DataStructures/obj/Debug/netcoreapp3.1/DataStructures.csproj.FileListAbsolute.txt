@@ -7,3 +7,12 @@ C:\Users\Денис\Desktop\DataStructures\DataStructures\DataStructures\obj\Deb
 C:\Users\Денис\Desktop\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
 C:\Users\Денис\Desktop\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
 C:\Users\Денис\Desktop\DataStructures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\Денис\Desktop\DataStructures\DataStructure\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb

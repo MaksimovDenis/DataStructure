@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WeNygaLnKOF8WUnxdlETsnzpnIMMTZul2jLLTDpdJzjVrp1VjfeauSfQLVfAehAtD/eghDmlSlVGsE6kGWp89g==",
+  "dgSpecHash": "XXZY4wn3cYI1lGyqYx5goY2tz18I77ySZSkxkOy3wVLFuvcEuLQAY3Ey7c81StZ05Ep3JLfTqyVEDU7SChj2yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructureTest\\DataStructureTest.csproj",
+  "projectFilePath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructureTest\\DataStructureTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Денис\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Денис\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

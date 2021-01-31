@@ -4663,11 +4663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructureTest\\DataStructureTest.csproj",
+      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructureTest\\DataStructureTest.csproj",
       "projectName": "DataStructureTest",
-      "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructureTest\\DataStructureTest.csproj",
+      "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructureTest\\DataStructureTest.csproj",
       "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructureTest\\obj\\",
+      "outputPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructureTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4683,11 +4683,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj": {
-              "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj"
+            "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj": {
+              "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructuresConsole\\DataStructuresConsole.csproj"
             },
-            "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj": {
-              "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj"
+            "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructures\\DataStructures.csproj": {
+              "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructures\\DataStructures.csproj"
             }
           }
         }

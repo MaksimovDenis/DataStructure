@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructures\\DataStructures.csproj",
       "projectName": "DataStructures",
-      "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\DataStructures.csproj",
+      "projectPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructures\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructures\\DataStructures\\obj\\",
+      "outputPath": "C:\\Users\\Денис\\Desktop\\DataStructures\\DataStructure\\DataStructures\\DataStructures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
