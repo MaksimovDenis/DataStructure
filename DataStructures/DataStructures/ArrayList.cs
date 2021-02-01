@@ -151,7 +151,9 @@ namespace DataStructures
         public int FindeValueByIndex(int value)
         {
             int s = 0;
-            for (int i = 0; i < _array.Length; i++)
+
+
+            for (int i = value-1; i < _array[value]; i++)
             {
                 if (i == value - 1)
                 {

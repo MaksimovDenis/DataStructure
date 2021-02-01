@@ -11,7 +11,7 @@ namespace DataStructuresConsole
 
             ArrayList myList1 = new ArrayList(new int[] { 3, 0, -23, 31, 54, 32 });
 
-            myList1.DeleteElementByIndex(2,4);
+            myList1.FindeValueByIndex(2);
 
             Console.WriteLine("");
 
